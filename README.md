@@ -1,2 +1,2 @@
-# LaRockolaGrupo7
+# LaRockolaS28-Grupo7
 Proyecto Estudiantil
