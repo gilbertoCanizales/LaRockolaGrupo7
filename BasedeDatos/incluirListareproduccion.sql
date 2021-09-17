@@ -1,0 +1,1 @@
+INSERT INTO larockola.cancion(cancion.titulo, cancion.letra, cancion.idioma, cancion.idGenero, cancion.idAlbum) 
